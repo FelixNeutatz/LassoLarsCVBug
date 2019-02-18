@@ -1,5 +1,7 @@
 # LassoLarsCVBug
 
+Minimal reproducible example for https://github.com/scikit-learn/scikit-learn/issues/9603
+
 scikit-learn version: 0.20.2
 numpy version: 1.16.1
 
