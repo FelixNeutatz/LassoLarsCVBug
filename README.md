@@ -3,7 +3,8 @@
 Minimal reproducible example for https://github.com/scikit-learn/scikit-learn/issues/9603
 
 We provide two examples. One example makes scikit fail for commit https://github.com/scikit-learn/scikit-learn/tree/09bc27630fb8feea2f10627dce25e93cd6ff258a
-Another examples makes scikit fail for version 0.20.2.
+
+Another example makes scikit fail for version 0.20.2.
 
 If you use scikit-learn at commit https://github.com/scikit-learn/scikit-learn/tree/09bc27630fb8feea2f10627dce25e93cd6ff258a
 run:
